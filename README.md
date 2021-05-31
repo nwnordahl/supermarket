@@ -25,7 +25,7 @@ $ npm i
 3. Run server:
 
 ```bash
-$ npm run dev
+$ npm run start
 ```
 
 ## How to use
