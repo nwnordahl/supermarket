@@ -1,6 +1,8 @@
 # Supermarket
 
-A web store built with React.
+A web store built with React. The website is deployed to [Netlify](https://www.netlify.com/) and can be found [here](https://adoring-snyder-52ad93.netlify.app/).
+
+<img src="img/screenshot.png" />
 
 ## Requirements
 
