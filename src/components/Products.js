@@ -17,7 +17,7 @@ export default function Products(props) {
         }
       })
       .catch((error) => console.log(error));
-  }, []);
+  }, [get]);
 
   return (
     <div className="products-layout">

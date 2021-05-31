@@ -25,7 +25,7 @@ export default function ProductDetails(props) {
         }
       })
       .catch((error) => console.log(error));
-  }, []);
+  }, [get, params.id]);
 
   return (
     <div className="product-details-layout">
