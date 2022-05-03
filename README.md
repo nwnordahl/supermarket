@@ -6,7 +6,7 @@ A web store built with React. The website is deployed to [Netlify](https://www.n
 
 ## Requirements
 
-[Git](https://git-scm.com/) and [npm](https://npm.community/).
+[Git](https://git-scm.com/), [node](https://nodejs.org/en/) and [npm](https://npm.community/) ([Node Version Manager](https://github.com/nvm-sh/nvm) is recommended for installing node and npm on macOS and Linux. [A similar manager](https://github.com/coreybutler/nvm-windows) is provided for Windows).
 
 ## How to set up (locally)
 
