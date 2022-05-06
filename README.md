@@ -8,6 +8,12 @@ A web store built with React. The website is deployed to [Netlify](https://www.n
 This project is hosted on [GitHub Pages](https://pages.github.com/), but as this is made with React,
 there are some additional steps (build and deployment is not initiated per commit/push to upstream). To build and deploy the project, run the command
 
+```bash
+$ npm run deployment
+```
+
+(as described in [this article](https://medium.com/@isharamalaviarachchi/how-to-deploy-your-react-app-into-github-pages-b2c96292b18e)).
+
 ## Requirements
 
 [Git](https://git-scm.com/), [node](https://nodejs.org/en/) and [npm](https://npm.community/) ([Node Version Manager](https://github.com/nvm-sh/nvm) is recommended for installing node and npm on macOS and Linux. [A similar manager](https://github.com/coreybutler/nvm-windows) is provided for Windows).
